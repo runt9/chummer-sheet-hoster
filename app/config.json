@@ -1,0 +1,12 @@
+{
+  "express": {
+    "port": 8181,
+    "ip": "127.0.0.1"
+  },
+  "logging": {
+    "debug": true
+  },
+  "chummerSettings": {
+    "xmlDirectory": "xmlExports/"
+  }
+}
