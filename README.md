@@ -1,3 +1,2 @@
 # chummer-sheet-hoster
-WORK IN PROGRESS!
-Web server to parse and server pretty Chummer character sheets from Chummer-generated XML documents
+Nevermind, this turned out to not be a good idea. If anyone thinks it can be, feel free to take it and run with it!
