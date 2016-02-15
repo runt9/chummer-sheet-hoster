@@ -1,2 +1,10 @@
 include header
 include navbar
+
+.container.list-characters(ng-controller="IndexController", ng-show="isActive()")
+    h3 Select a Character
+    .character(ng-repeat="character in characters")
+        a.character-link(ng-click="selectCharacter(character)") {{ character.replace('.xml', '') }}
+
+script(type="text/ng-template" id="character.html")
+    .character-container(ng-controller="CharacterController")

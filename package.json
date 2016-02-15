@@ -10,6 +10,9 @@
     "url": "runt9@git://github.com/runt9/chummer-sheet-host/tree/master"
   },
   "dependencies": {
+    "angular": "^1.5.0",
+    "angular-bootstrap": "^0.12.2",
+    "angular-new-router": "^0.5.3",
     "bootstrap": "^3.3.6",
     "express": "^4.13.4",
     "jade": "^1.11.0",
